@@ -1,0 +1,8 @@
+post_install() {
+    echo "Hi!"
+    echo "PLACEHOLDER"
+}
+
+post_upgrade() {
+    post_install
+}
