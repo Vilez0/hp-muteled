@@ -1,6 +1,9 @@
 post_install() {
-    echo "Hi!"
-    echo "PLACEHOLDER"
+    echo -e "\033[1;31m--------------------------------------------------------\033[0m"
+    echo "  If this module works for your HP laptop. Please report"
+    echo "  it at: https://github.com/Vilez0/hp-muteled/issues/1"
+    echo "  Thanks."
+    echo -e "\033[1;31m--------------------------------------------------------\033[0m"
 }
 
 post_upgrade() {

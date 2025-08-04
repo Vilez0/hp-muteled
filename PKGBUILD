@@ -1,4 +1,4 @@
-# Maintainer: Kediler Birliği
+# Maintainer: Vilez <aur@medip.dev>
 
 _pkgbase=hp-muteled
 pkgname=${_pkgbase}
