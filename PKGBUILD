@@ -1,7 +1,7 @@
 # Maintainer: Vilez <aur at medip dot dev>
 
 _pkgbase=hp-muteled
-pkgname=${_pkgbase}
+pkgname=${_pkgbase}-git
 pkgver=next
 pkgrel=0
 pkgdesc="HP muteled fix"
